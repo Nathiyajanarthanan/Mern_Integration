@@ -235,7 +235,7 @@ function App() {
           
           <div className="border-t border-gray-700 pt-8 text-center">
             <p className="text-gray-400 text-lg">
-              &copy; 2025 <span className="font-bold text-white">ShopEasy</span>. Made with ❤️ for amazing shopping experience.
+              &copy; 2025 <span className="font-bold text-white">Glitch</span>. Made with ❤️ for amazing shopping experience.
             </p>
           </div>
         </div>
