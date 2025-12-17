@@ -40,7 +40,7 @@ function App() {
                 <span className="text-2xl">🛒</span>
               </div>
               <h1 className="text-3xl font-extrabold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent group-hover:from-purple-300 group-hover:to-pink-300 transition-all duration-300">
-                ShopEasy
+                Glitch
               </h1>
             </Link>
 
