@@ -201,7 +201,7 @@ function App() {
                   <span className="mr-3 text-xl">📱</span>
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-sm">+1 (555) 123-4567</p>
+                    <p className="text-sm">+1 (999) 456-7890</p>
                   </div>
                 </div>
                 <div className="flex items-center text-gray-300">
